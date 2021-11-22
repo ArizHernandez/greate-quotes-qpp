@@ -1,13 +1,106 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #e7f8f8;
+}
+
+.invalid input,
+.invalid textarea{
+  border-color: rgb(163, 30, 30);
+}
+
+.invalid label{
+  color: rgb(163, 30, 30);
+}
+
+.invalid p{
+  color: rgb(163, 30, 30);
+}
+
+
+.centered {
+  margin: 3rem auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.focused {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+}
+
+.options{
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn {
+  text-align: center;
+  text-decoration: none;
+  background-color: teal;
+  color: white;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid teal;
+  cursor: pointer;
+}
+
+.btn-red{
+  font-size: 1rem;
+  background-color: rgb(245, 75, 46);
+  border-color: rgb(245, 75, 46);
+  width: 45%;
+}
+
+.btn-outline{
+  font-size: 1rem;
+  color: teal;
+  background: white;
+  border: 1px solid teal;
+  width: 45%;
+}
+
+.btn-comments{
+  display: inline-block;
+  width: 45%;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #11acac;
+  border-color: #11acac;
+}
+
+.btn-red:hover,
+.btn-red:active {
+  background-color: rgb(231, 82, 56);
+  border-color: rgb(231, 82, 56);
+}
+.btn-outline:hover,
+.btn-outline:active {
+  color: white;
+}
+
+.btn--flat {
+  cursor: pointer;
+  font: inherit;
+  color: teal;
+  border: none;
+  background-color: none;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+}
+
+.btn--flat:hover,
+.btn--flat:active {
+  background-color: teal;
+  color: white;
 }
