@@ -1,20 +1,34 @@
 {
   "files": {
-    "main.css": "/greate-quotes-qpp/static/css/main.3438c057.chunk.css",
-    "main.js": "/greate-quotes-qpp/static/js/main.4f6d6a5e.chunk.js",
-    "main.js.map": "/greate-quotes-qpp/static/js/main.4f6d6a5e.chunk.js.map",
-    "runtime-main.js": "/greate-quotes-qpp/static/js/runtime-main.18fc6722.js",
-    "runtime-main.js.map": "/greate-quotes-qpp/static/js/runtime-main.18fc6722.js.map",
-    "static/js/2.2eddafae.chunk.js": "/greate-quotes-qpp/static/js/2.2eddafae.chunk.js",
-    "static/js/2.2eddafae.chunk.js.map": "/greate-quotes-qpp/static/js/2.2eddafae.chunk.js.map",
+    "main.css": "/greate-quotes-qpp/static/css/main.137b401e.chunk.css",
+    "main.js": "/greate-quotes-qpp/static/js/main.5ac91efe.chunk.js",
+    "main.js.map": "/greate-quotes-qpp/static/js/main.5ac91efe.chunk.js.map",
+    "runtime-main.js": "/greate-quotes-qpp/static/js/runtime-main.91f290c9.js",
+    "runtime-main.js.map": "/greate-quotes-qpp/static/js/runtime-main.91f290c9.js.map",
+    "static/js/2.3fde0455.chunk.js": "/greate-quotes-qpp/static/js/2.3fde0455.chunk.js",
+    "static/js/2.3fde0455.chunk.js.map": "/greate-quotes-qpp/static/js/2.3fde0455.chunk.js.map",
+    "static/css/3.1da64e12.chunk.css": "/greate-quotes-qpp/static/css/3.1da64e12.chunk.css",
+    "static/js/3.1c536349.chunk.js": "/greate-quotes-qpp/static/js/3.1c536349.chunk.js",
+    "static/js/3.1c536349.chunk.js.map": "/greate-quotes-qpp/static/js/3.1c536349.chunk.js.map",
+    "static/css/4.95c47790.chunk.css": "/greate-quotes-qpp/static/css/4.95c47790.chunk.css",
+    "static/js/4.e90141bd.chunk.js": "/greate-quotes-qpp/static/js/4.e90141bd.chunk.js",
+    "static/js/4.e90141bd.chunk.js.map": "/greate-quotes-qpp/static/js/4.e90141bd.chunk.js.map",
+    "static/css/5.6b373962.chunk.css": "/greate-quotes-qpp/static/css/5.6b373962.chunk.css",
+    "static/js/5.a2d5259b.chunk.js": "/greate-quotes-qpp/static/js/5.a2d5259b.chunk.js",
+    "static/js/5.a2d5259b.chunk.js.map": "/greate-quotes-qpp/static/js/5.a2d5259b.chunk.js.map",
+    "static/js/6.be002183.chunk.js": "/greate-quotes-qpp/static/js/6.be002183.chunk.js",
+    "static/js/6.be002183.chunk.js.map": "/greate-quotes-qpp/static/js/6.be002183.chunk.js.map",
     "index.html": "/greate-quotes-qpp/index.html",
-    "static/css/main.3438c057.chunk.css.map": "/greate-quotes-qpp/static/css/main.3438c057.chunk.css.map",
-    "static/js/2.2eddafae.chunk.js.LICENSE.txt": "/greate-quotes-qpp/static/js/2.2eddafae.chunk.js.LICENSE.txt"
+    "static/css/3.1da64e12.chunk.css.map": "/greate-quotes-qpp/static/css/3.1da64e12.chunk.css.map",
+    "static/css/4.95c47790.chunk.css.map": "/greate-quotes-qpp/static/css/4.95c47790.chunk.css.map",
+    "static/css/5.6b373962.chunk.css.map": "/greate-quotes-qpp/static/css/5.6b373962.chunk.css.map",
+    "static/css/main.137b401e.chunk.css.map": "/greate-quotes-qpp/static/css/main.137b401e.chunk.css.map",
+    "static/js/2.3fde0455.chunk.js.LICENSE.txt": "/greate-quotes-qpp/static/js/2.3fde0455.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18fc6722.js",
-    "static/js/2.2eddafae.chunk.js",
-    "static/css/main.3438c057.chunk.css",
-    "static/js/main.4f6d6a5e.chunk.js"
+    "static/js/runtime-main.91f290c9.js",
+    "static/js/2.3fde0455.chunk.js",
+    "static/css/main.137b401e.chunk.css",
+    "static/js/main.5ac91efe.chunk.js"
   ]
 }
